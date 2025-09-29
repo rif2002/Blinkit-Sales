@@ -81,7 +81,7 @@ The dashboard tracks four critical KPIs:
 3. Leverage consistent Average Ratings while addressing underperforming outlets.  
 4. Explore growth opportunities through new products, underperforming outlets, and emerging locations.
 
----
+ 
 
 ## Conclusion
 The Blinkit Sales Dashboard transforms multi-dimensional sales data into actionable insights, enabling data-driven decisions that optimize product offerings, outlet performance, and overall revenue.
