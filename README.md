@@ -1,15 +1,16 @@
 # Blinkit Sales Dashboard
 
 ## Project Overview
-This dashboard provides a comprehensive analysis of Blinkit's sales performance, examining key metrics across product types, fat content, outlet characteristics, and geographic locations. Insights from the dashboard help guide strategic decisions regarding inventory management, pricing, outlet optimization, and customer engagement.
+This dashboard provides a comprehensive analysis of Blinkit's sales performance, examining key metrics across product types, fat content, outlet characteristics, and geographic locations. Insights from the dashboard help guide strategic decisions regarding inventory management, pricing, outlet optimization, and customer engagement. The project also includes data cleaning and preprocessing to ensure accurate analysis.
 
- 
+---
 
 ## Tools & Technologies
 - **Data Visualization:** Power BI (or specify tool used)  
-- **Data Source:** <a href="https://github.com/rif2002/Blinkit-Sales/blob/main/BlinkIT%20Grocery%20Data.xlsx">BlinkIT Grocery Data</a> 
+- **Data Source:** [BlinkIT Grocery Data](https://github.com/rif2002/Blinkit-Sales/blob/main/BlinkIT%20Grocery%20Data.xlsx)  
+- **Data Cleaning & Preprocessing:** Handling missing values, standardizing categories, and formatting numeric metrics for analysis.  
 
- 
+---
 
 ## Key Performance Indicators (KPIs)
 The dashboard tracks four critical KPIs:
@@ -21,7 +22,7 @@ The dashboard tracks four critical KPIs:
 | Number of Items | Count of distinct items sold | 8523 |
 | Average Rating | Average customer rating for sold items | 3.9 |
 
- 
+---
 
 ## Business Requirements / Questions
 1. How does fat content impact total sales, and how do other KPIs vary with fat content?  
@@ -32,7 +33,7 @@ The dashboard tracks four critical KPIs:
 6. What is the geographic distribution of sales across outlet locations?  
 7. How do all key metrics vary by outlet type?  
 
- 
+---
 
 ## Insights / Analysis
 
@@ -67,8 +68,12 @@ The dashboard tracks four critical KPIs:
 - **Insight:** **Supermarket Type1** has the highest Total Sales (**$787.55K**) and Number of Items sold (5577). Grocery Stores have lower sales.  
 - **Other KPIs:** Average Sales ($140–$141) and Ratings (~4) are consistent across all outlet types.  
 
+---
+
 ## Dashboard Preview
-![Blinkit Sales Dashboard](Blinkit Dashboard_page-0001.jpg)
+![Blinkit Sales Dashboard](Blinkit%20Dashboard_page-0001.jpg)
+
+---
 
 ## Strategic Recommendations
 1. Prioritize Regular fat products and top-selling categories like Fruits, Vegetables, and Snacks.  
@@ -76,7 +81,7 @@ The dashboard tracks four critical KPIs:
 3. Leverage consistent Average Ratings while addressing underperforming outlets.  
 4. Explore growth opportunities through new products, underperforming outlets, and emerging locations.
 
- 
+---
 
 ## Conclusion
 The Blinkit Sales Dashboard transforms multi-dimensional sales data into actionable insights, enabling data-driven decisions that optimize product offerings, outlet performance, and overall revenue.
