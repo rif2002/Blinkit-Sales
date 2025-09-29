@@ -6,7 +6,7 @@ This project involved analyzing Blinkit's retail sales and outlet performance to
 **Tool Used:** Power BI / Tableau  
 **Dataset:** [BlinkIT Grocery Data.xlsx](./BlinkIT%20Grocery%20Data.xlsx)
 
----
+ 
 
 ## 🎯 Strategic Objectives
 - **Benchmark High Performance:** Identify characteristics of top-grossing outlets.  
@@ -14,7 +14,7 @@ This project involved analyzing Blinkit's retail sales and outlet performance to
 - **Guide Expansion Strategy:** Recommend high-ROI store formats for CapEx allocation.  
 - **Optimize Inventory:** Determine product mix that maximizes revenue.  
 
----
+ 
 
 ## 📂 Dataset
 The **BlinkIT Grocery Data.xlsx** dataset contains retail sales and outlet metadata for Blinkit. It was used to:  
@@ -24,7 +24,7 @@ The **BlinkIT Grocery Data.xlsx** dataset contains retail sales and outlet metad
 - Identify high-revenue and high-volume items  
 - Support operational optimization and strategic recommendations  
 
----
+ 
 
 ## 📊 Key Performance Indicators (KPIs)
 | Metric | Platform Total | Supermarket Type 1 | Business Implication |
@@ -34,7 +34,7 @@ The **BlinkIT Grocery Data.xlsx** dataset contains retail sales and outlet metad
 | Avg Sales (AOV) | $141 | $141 | Average transaction value is consistent |
 | Avg Customer Rating | 3.9 | 3.9 | Service quality is consistent across outlets |
 
----
+ 
 
 ## 📈 Two-Stage Analysis
 ### Phase 1: Global Platform Analysis
@@ -50,7 +50,7 @@ The **BlinkIT Grocery Data.xlsx** dataset contains retail sales and outlet metad
 | Top Item Type | Fruits & Veggies ($0.18M) | ($0.12M) | Stocking priority for fresh produce is critical |
 | Small Size Sales | $507.90K | $362.60K | Small-format stores outperform others |
 
----
+ 
 
 ## 🏆 Strategic Recommendations
 - **Replicate Benchmark Model:** Standardize Type 1 inventory, logistics, and staffing across outlets.  
@@ -58,7 +58,14 @@ The **BlinkIT Grocery Data.xlsx** dataset contains retail sales and outlet metad
 - **High-Yield Inventory Optimization:** Maximize stock and promotions for Regular Fat Content items, especially Fruits/Veggies and Snack Foods.  
 - **Growth Risk Assessment:** Investigate decline in post-2018 outlet performance to inform strategy.  
 
----
+ 
 
 ## 🖼️ Dashboard Visualization
 ![Blinkit Dashboard](Blinkit%20Dashboard_page-0001.jpg)
+
+## 📂 How to Use This Repository
+
+- The **Power BI dashboard** is available in the repository (`.pbix` file or PDF export).  
+- Clone or download the repo to explore the report.  
+- Open the dashboard in **Power BI Desktop** or view the exported PDF for insights.  
+
