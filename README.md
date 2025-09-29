@@ -38,19 +38,18 @@ The dashboard tracks four critical KPIs:
 ## Insights / Analysis
 
 ### 1. Total Sales by Fat Content
-- **Insight:** Regular fat items generate **$776.32K**, outperforming Low Fat items (**$425.36K**).  
-- **Other KPIs:** Average Sales, Number of Items, and Average Rating are slightly higher for Regular fat products.  
-- **Implication:** Consumer preference leans toward Regular fat products; prioritizing these can drive higher revenue.
+- **Insight:**  Low Fat items items generate **$776.32K**, outperforming Regular fat(**$425.36K**).  
+- **Other KPIs:** All other KPIs, including Average Sales and Average Rating are virtually identical between the Low Fat and Regular categories. This indicates a strong consumer preference for healthier options without compromising on satisfaction or price point.  
 
 ### 2. Total Sales by Item Type
-- **Insight:** **Fruits & Vegetables ($178,124)** and **Snack Foods ($175,434)** are top contributors; **Seafood ($9,078)** is lowest.  
+- **Insight:** **Fruits & Vegetables ($178,124)** and **Snack Foods ($175,434)** are top contributors.  
 - **Other KPIs:** Average Sales and Ratings are consistent across top-selling categories.  
 - **Implication:** Focus on core grocery and snack categories while exploring strategies for underperforming items.
 
 ### 3. Fat Content by Outlet Tier
-- **Insight:** **Tier 3 outlets** have the highest total sales for both Regular ($0.31M) and Low Fat ($0.17M) items.  
-- **Other KPIs:** Contribution of Regular fat to total sales dominates across all tiers.  
-- **Implication:** Regular fat products consistently drive higher revenue, regardless of outlet tier.
+- **Insight:** **Tier 3 outlets** have the highest total sales for both Low Fat($0.31M) andRegular ($0.17M) items.  
+- **Other KPIs:** Contribution of Low Fat to total sales dominates across all tiers.  
+- **Implication:** Low Fat products consistently drive higher revenue, regardless of outlet tier.
 
 ### 4. Total Sales by Outlet Establishment
 - **Insight:** Sales increased from **$78K in 2012** to a peak of **$205K in 2018**, then stabilized at **$131K in 2022**.  
@@ -65,7 +64,7 @@ The dashboard tracks four critical KPIs:
 - **Implication:** Geographic prioritization of Tier 3 outlets can maximize revenue. Some sales are unclassified, indicating potential emerging markets.
 
 ### 7. All Metrics by Outlet Type
-- **Insight:** **Supermarket Type1** has the highest Total Sales (**$787.55K**) and Number of Items sold (5577). Grocery Stores have lower sales.  
+- **Insight:** **Supermarket Type1** has the highest Total Sales (**$787.55K**) and Number of Items sold (5577). Supermarket type-3 have lowest sales.  
 - **Other KPIs:** Average Sales ($140–$141) and Ratings (~4) are consistent across all outlet types.  
 
  
@@ -76,7 +75,7 @@ The dashboard tracks four critical KPIs:
  
 
 ## Strategic Recommendations
-1. Prioritize Regular fat products and top-selling categories like Fruits, Vegetables, and Snacks.  
+1. Prioritize Low fat products and top-selling categories like Fruits, Vegetables, and Snacks.  
 2. Focus inventory and marketing efforts on Medium-sized and Tier 3 outlets.  
 3. Leverage consistent Average Ratings while addressing underperforming outlets.  
 4. Explore growth opportunities through new products, underperforming outlets, and emerging locations.
